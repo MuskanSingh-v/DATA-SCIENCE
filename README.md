@@ -4,6 +4,6 @@ since data science is very vast so one should practice more and more followed by
 
 THIS IS LEARNT FROM INTERNSHALA 
 
-since data science is part of machine learning so i would suggest go for full machine learning as well .
+since data science is part of machine learning so i would suggest go for full machine learning as well.
 
-DO PRACTICE .
+DO PRACTICE
